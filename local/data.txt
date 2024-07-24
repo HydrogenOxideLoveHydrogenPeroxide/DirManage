@@ -1,0 +1,13 @@
+常见文档的格式种类包括：
+- 文本文档格式：txt, doc, docx, pdf, rtf, odt, epub, md
+- 表格文档格式：xls, xlsx, csv, ods
+- 幻灯片文档格式：ppt, pptx, odp
+- 图像文档格式：jpg, jpeg, png, gif, bmp, webp, tiff, svg, ico, raw
+- 音频文档格式：mp3, wav, wma, ogg, flac, aac
+- 视频文档格式：mp4, avi, mov, mkv, wmv, flv
+- 压缩文档格式：zip, rar, 7z
+- 数据库文档格式：sql, mdb, accdb, dbf
+- 程序代码文档格式：c, cpp, java, py, html, css, js, php, xml, json
+- 日志文档格式：log 
+- 笔记文档格式：txt, md, onenote, evernote
+- 其他文档格式：eml (电子邮件), iso (光盘映像), exe (可执行文件)等

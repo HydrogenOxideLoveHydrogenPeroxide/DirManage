@@ -1,0 +1,8 @@
+{
+    "formats" : {
+        "audio_formats":["mp3","wav","flac","aac","ogg","aiff","m4a","wma","mid","amr"],
+        "video_formats":["mp4","avi","mov","mkv","wmv","flv","webm","m4v","mpeg","3gp"],
+        "image_formats":["jpg","jpeg","png","gif","bmp","webp","tiff","svg","ico","raw"],
+        "doc_formats":["txt", "doc", "docx", "pdf", "rtf", "odt", "epub", "md"]
+    }
+}
